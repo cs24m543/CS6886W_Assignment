@@ -8,3 +8,6 @@ pip install pandas
 3.To find performance with best configuration wrt test accuracy run following
 
 python .\test.py
+4. For Q2(c) following is required:
+   a. Wandb configuration
+   b. Run sweep.yaml
